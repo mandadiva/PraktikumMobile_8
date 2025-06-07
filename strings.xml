@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Praktikum File Internal</string>
+    <string name="hint_input">Masukkan teks</string>
+    <string name="btnSimpan">Simpan File</string>
+    <string name="btn_baca">Baca File</string>
+    <string name="btn_ubah">Ubah File</string>
+    <string name="btn_hapus">Hapus File</string>
+    <string name="label_output">Isi File:</string>
+</resources>
